@@ -1,6 +1,6 @@
 # npmtest-datatables
 
-#### test coverage for  [datatables (v1.10.13)](http://datatables.net)  [![npm package](https://img.shields.io/npm/v/npmtest-datatables.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-datatables) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-datatables.svg)](https://travis-ci.org/npmtest/node-npmtest-datatables)
+#### basic test coverage for  [datatables (v1.10.13)](http://datatables.net)  [![npm package](https://img.shields.io/npm/v/npmtest-datatables.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-datatables) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-datatables.svg)](https://travis-ci.org/npmtest/node-npmtest-datatables)
 
 #### DataTables enhances HTML tables with the ability to sort, filter and page the data in the table very easily. It provides a comprehensive API and set of configuration options, allowing you to consume data from virtually any data source.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-datatables/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-datatables/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-datatables/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-datatables/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-datatables/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-datatables/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-datatables/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-datatables/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-datatables/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-datatables/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-datatables/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-datatables/build/coverage.html/index.html)
 
@@ -103,7 +103,8 @@
     },
     "scripts": {},
     "title": "DataTables",
-    "version": "1.10.13"
+    "version": "1.10.13",
+    "bin": {}
 }
 ```
 
